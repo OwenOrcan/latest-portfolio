@@ -34,7 +34,7 @@ export const experiences: Experience[] = [
     description:
       "Teaching programming fundamentals to children aged 8-14 using Python Scratch, Roblox, Minecraft, etc. Developing curriculum and creating engaging projects to foster interest in computer science.",
     achievements: [
-      "Mentored over 50 students, with several winning regional coding competitions",
+      "Mentored over 30 students",
       "Developed a project-based curriculum that increased student retention by 25%",
       "Created interactive learning materials that improved concept understanding",
     ],
